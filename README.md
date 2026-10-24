@@ -63,6 +63,7 @@ Robotic ground systems, quadrupedal unmanned vehicles, and humanoid combat platf
 Assessments of autonomous weapon systems under Article 36 of Additional Protocol I to the Geneva Conventions, meaningful human control doctrines, and international state compliance:
 
 <!-- LEGAL-ANALYSES:START -->
+- **[PHP2Shell: How an AI-Assisted Discovery Pulled Governments Offline, and What It Means for Law and Global Security](https://aviperera.com/php2shell-ai-discovered-php-vulnerability/)** — Technical architecture, operational parameters, and defense analysis.
 - **[Character.AI’s Bankruptcy Was Foreseeable: What the Collapse of an AI Companion Giant Means](https://aviperera.com/character-ai-bankruptcy/)** — Technical architecture, operational parameters, and defense analysis.
 - **[US Execution Global Online Livestream and Law](https://aviperera.com/hasan-execution-livestream-law/)** — Technical architecture, operational parameters, and defense analysis.
 - **[Abolishing Columbus Day: Genocide and historical reckoning](https://aviperera.com/abolish-columbus-day/)** — Technical architecture, operational parameters, and defense analysis.
@@ -143,7 +144,6 @@ Assessments of autonomous weapon systems under Article 36 of Additional Protocol
 - **[Finite and Infinite Games: A Multidisciplinary Analysis](https://aviperera.com/finite-and-infinite-games-a-multidisciplinary-analysis/)** — Technical architecture, operational parameters, and defense analysis.
 - **[Human Compatible (Stuart Russell) – Book Summary, Notes & Highlights](https://aviperera.com/human-compatible-stuart-russell-book-summary-notes-highlights/)** — Technical architecture, operational parameters, and defense analysis.
 - **[The Alignment Problem (Brian Christian) – Book Summary, Notes & Highlights](https://aviperera.com/the-alignment-problem-machine-learning-and-human-values-comprehensive-book-summary/)** — Technical architecture, operational parameters, and defense analysis.
-- **[International Relations Jobs: Your Guide to a Global Career](https://aviperera.com/international-relations-jobs-your-guide-to-a-global-career/)** — Technical architecture, operational parameters, and defense analysis.
 <!-- LEGAL-ANALYSES:END -->
 
 ---
