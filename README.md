@@ -50,6 +50,7 @@ Technical architecture, algorithmic targeting systems, and operational parameter
 Robotic ground systems, quadrupedal unmanned vehicles, and humanoid combat platforms evaluated under meaningful human control standards:
 
 <!-- COMBAT-HUMANOIDS:START -->
+- **[Unitree H1 and H2](https://aviperera.com/unitree-h1-h2/)** — Technical architecture, operational parameters, and defense analysis.
 - **[Norinco Fuxi and NUDT Combat Humanoids](https://aviperera.com/norinco-fuxi-and-nudt-combat-humanoids/)** — Technical architecture, operational parameters, and defense analysis.
 - **[FEDOR Skybot F-850](https://aviperera.com/fedor-skybot-f-850/)** — Technical architecture, operational parameters, and defense analysis.
 - **[Alex Ballistic-Protected Humanoid (IHMC)](https://aviperera.com/alex-ballistic-protected-humanoid-ihmc/)** — Technical architecture, operational parameters, and defense analysis.
@@ -63,6 +64,7 @@ Robotic ground systems, quadrupedal unmanned vehicles, and humanoid combat platf
 Assessments of autonomous weapon systems under Article 36 of Additional Protocol I to the Geneva Conventions, meaningful human control doctrines, and international state compliance:
 
 <!-- LEGAL-ANALYSES:START -->
+- **[Has Trump Become a Dictator? What the Evidence Shows, and What It Means for the World](https://aviperera.com/is-trump-a-dictator-evidence-law-international-order/)** — Technical architecture, operational parameters, and defense analysis.
 - **[PHP2Shell: How an AI-Assisted Discovery Pulled Governments Offline, and What It Means for Law and Global Security](https://aviperera.com/php2shell-ai-discovered-php-vulnerability/)** — Technical architecture, operational parameters, and defense analysis.
 - **[Character.AI’s Bankruptcy Was Foreseeable: What the Collapse of an AI Companion Giant Means](https://aviperera.com/character-ai-bankruptcy/)** — Technical architecture, operational parameters, and defense analysis.
 - **[US Execution Global Online Livestream and Law](https://aviperera.com/hasan-execution-livestream-law/)** — Technical architecture, operational parameters, and defense analysis.
@@ -134,16 +136,14 @@ Assessments of autonomous weapon systems under Article 36 of Additional Protocol
 - **[AI in Healthcare: Balancing Innovation and Patient Rights](https://aviperera.com/ai-in-healthcare-balancing-innovation-and-patient-rights/)** — Technical architecture, operational parameters, and defense analysis.
 - **[The Role of Ethics Review Boards in AI Research and Development](https://aviperera.com/the-role-of-ethics-review-boards-in-ai-research-and-development/)** — Technical architecture, operational parameters, and defense analysis.
 - **[AI and Copyright: Navigating Intellectual Property in the Age of Machine Creativity](https://aviperera.com/ai-and-copyright-navigating-intellectual-property-in-the-age-of-machine-creativity/)** — Technical architecture, operational parameters, and defense analysis.
-- **[Ethical AI in Recruitment: Ensuring Fair Hiring Practices](https://aviperera.com/ethical-ai-in-recruitment-ensuring-fair-hiring-practices-in-2024/)** — Technical architecture, operational parameters, and defense analysis.
+- **[Ethical AI in Recruitment: Ensuring Fair Hiring Practices](https://aviperera.com/ethical-ai-in-recruitment-ensuring-fair-hiring-practices/)** — Technical architecture, operational parameters, and defense analysis.
 - **[The Impact of AI on Employment: Navigating the Shifting Job Landscape](https://aviperera.com/the-impact-of-ai-on-employment-navigating-the-shifting-job-landscape-in-2024/)** — Technical architecture, operational parameters, and defense analysis.
 - **[Implementing Ethical AI in Small Businesses: A Practical Guide (2024)](https://aviperera.com/implementing-ethical-ai-in-small-businesses-a-practical-guide-2024/)** — Technical architecture, operational parameters, and defense analysis.
 - **[Best AI Ethics Training Programs for Corporations: A 2024 Guide](https://aviperera.com/best-ai-ethics-training-programs-for-corporations-a-2024-guide/)** — Technical architecture, operational parameters, and defense analysis.
-- **[Best AI Regulatory Compliance Tools for Businesses (2024)](https://aviperera.com/best-ai-regulatory-compliance-tools-for-businesses-2024/)** — Technical architecture, operational parameters, and defense analysis.
+- **[Best AI Regulatory Compliance Tools for Businesses (2026)](https://aviperera.com/best-ai-regulatory-compliance-tools-for-businesses-2024/)** — Technical architecture, operational parameters, and defense analysis.
 - **[The Perfection Trap (Thomas Curran) – Book Summary, Notes & Highlights](https://aviperera.com/the-perfection-trap-thomas-curran-book-summary-notes-highlights/)** — Technical architecture, operational parameters, and defense analysis.
 - **[Superintelligence (Nick Bostrom) – Book Summary, Notes & Highlights](https://aviperera.com/superintelligence-nick-bostrom-book-summary-notes-highlights/)** — Technical architecture, operational parameters, and defense analysis.
 - **[Finite and Infinite Games: A Multidisciplinary Analysis](https://aviperera.com/finite-and-infinite-games-a-multidisciplinary-analysis/)** — Technical architecture, operational parameters, and defense analysis.
-- **[Human Compatible (Stuart Russell) – Book Summary, Notes & Highlights](https://aviperera.com/human-compatible-stuart-russell-book-summary-notes-highlights/)** — Technical architecture, operational parameters, and defense analysis.
-- **[The Alignment Problem (Brian Christian) – Book Summary, Notes & Highlights](https://aviperera.com/the-alignment-problem-machine-learning-and-human-values-comprehensive-book-summary/)** — Technical architecture, operational parameters, and defense analysis.
 <!-- LEGAL-ANALYSES:END -->
 
 ---
