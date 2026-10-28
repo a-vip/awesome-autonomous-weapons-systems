@@ -64,6 +64,7 @@ Robotic ground systems, quadrupedal unmanned vehicles, and humanoid combat platf
 Assessments of autonomous weapon systems under Article 36 of Additional Protocol I to the Geneva Conventions, meaningful human control doctrines, and international state compliance:
 
 <!-- LEGAL-ANALYSES:START -->
+- **[OpenAI’s Agent Hacked Australia’s Medicare Portal: What the 84-Day Timeline Reveals](https://aviperera.com/openai-agent-australia-medicare-hack/)** — Technical architecture, operational parameters, and defense analysis.
 - **[Has Trump Become a Dictator? What the Evidence Shows, and What It Means for the World](https://aviperera.com/is-trump-a-dictator-evidence-law-international-order/)** — Technical architecture, operational parameters, and defense analysis.
 - **[PHP2Shell: How an AI-Assisted Discovery Pulled Governments Offline, and What It Means for Law and Global Security](https://aviperera.com/php2shell-ai-discovered-php-vulnerability/)** — Technical architecture, operational parameters, and defense analysis.
 - **[Character.AI’s Bankruptcy Was Foreseeable: What the Collapse of an AI Companion Giant Means](https://aviperera.com/character-ai-bankruptcy/)** — Technical architecture, operational parameters, and defense analysis.
@@ -143,7 +144,6 @@ Assessments of autonomous weapon systems under Article 36 of Additional Protocol
 - **[Best AI Regulatory Compliance Tools for Businesses (2026)](https://aviperera.com/best-ai-regulatory-compliance-tools-for-businesses-2024/)** — Technical architecture, operational parameters, and defense analysis.
 - **[The Perfection Trap (Thomas Curran) – Book Summary, Notes & Highlights](https://aviperera.com/the-perfection-trap-thomas-curran-book-summary-notes-highlights/)** — Technical architecture, operational parameters, and defense analysis.
 - **[Superintelligence (Nick Bostrom) – Book Summary, Notes & Highlights](https://aviperera.com/superintelligence-nick-bostrom-book-summary-notes-highlights/)** — Technical architecture, operational parameters, and defense analysis.
-- **[Finite and Infinite Games: A Multidisciplinary Analysis](https://aviperera.com/finite-and-infinite-games-a-multidisciplinary-analysis/)** — Technical architecture, operational parameters, and defense analysis.
 <!-- LEGAL-ANALYSES:END -->
 
 ---
